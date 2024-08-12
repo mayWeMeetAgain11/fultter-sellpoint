@@ -1,0 +1,99 @@
+{
+    "number": 6,
+    "cash": 5.0,
+    "date": "2023-08-27T16: 57: 42.284845",
+    "bills": [
+        {
+            "category_id": 21,
+            "amount": 2
+        },
+        {
+            "category_id": 108,
+            "amount": 5
+        },
+        {
+            "category_id": 38,
+            "amount": 5
+        },
+        {
+            "category_id": 18,
+            "amount": 1
+        },
+        {
+            "category_id": 115,
+            "amount": 1
+        },
+        {
+            "category_id": 116,
+            "amount": 0
+        },
+        {
+            "category_id": 117,
+            "amount": 5
+        },
+        {
+            "category_id": 118,
+            "amount": 8
+        },
+        {
+            "category_id": 123,
+            "amount": 9
+        },
+        {
+            "category_id": 124,
+            "amount": 7
+        },
+        {
+            "category_id": 125,
+            "amount": 4
+        },
+        {
+            "category_id": 126,
+            "amount": 5
+        },
+        {
+            "category_id": 127,
+            "amount": 8
+        },
+        {
+            "category_id": 128,
+            "amount": 2
+        },
+        {
+            "category_id": 129,
+            "amount": 4
+        },
+        {
+            "category_id": 130,
+            "amount": 47
+        },
+        {
+            "category_id": 131,
+            "amount": 2
+        },
+        {
+            "category_id": 132,
+            "amount": 1
+        },
+        {
+            "category_id": 133,
+            "amount": 2
+        },
+        {
+            "category_id": 134,
+            "amount": 3
+        },
+        {
+            "category_id": 135,
+            "amount": 6
+        },
+        {
+            "category_id": 136,
+            "amount": 5
+        },
+        {
+            "category_id": 137,
+            "amount": 8
+        }
+    ]
+}
